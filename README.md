@@ -17,7 +17,7 @@ You need to include `raylib.h` and rayfork to use rayport!
 
 ### Example
 
-Here is a simple example for rayport with rayfork uses GLFW (Include "rayport.h" with including rayfork and raylib previously!)
+Here is a simple example for rayport with rayfork uses `rayfork-sokol-template` (Include `rayport.h` with including rayfork and raylib previously!)
 
 ```c
 #include "platform.h"
